@@ -17,6 +17,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_qryptcointechnologies.com-00E5E5?style=for-the-badge&labelColor=0d1117)](https://qryptcointechnologies.com)
 [![Email](https://img.shields.io/badge/📧_Contact_Us-00E5E5?style=for-the-badge&labelColor=0d1117)](mailto:info@qryptcointechnologies.com)
+[![Patreon](https://img.shields.io/badge/Support_Us-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white&labelColor=0d1117)](https://patreon.com/QryptCoinTechnologies)
 
 </div>
 
