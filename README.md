@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Logo -->
-<img src="https://raw.githubusercontent.com/QryptCoin-Technologies-L-L-C/.github/main/QT.png" alt="QryptCoin Technologies" width="200"/>
+<img src="https://raw.githubusercontent.com/QryptCoin-Technologies-L-L-C/.github/main/profile/QT.png" alt="QryptCoin Technologies" width="200"/>
 
 <br/>
 
